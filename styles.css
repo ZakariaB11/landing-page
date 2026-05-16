@@ -1,0 +1,34 @@
+header, #header, footer{
+    background-color: #1f2937;
+}
+#hero{
+    font-size: 24px;
+    color: #F9FAF8;
+    text-decoration: none;
+}
+.hlinks{
+    text-align: right;
+    font-size: 18px;
+}
+.hlinks a{
+    text-decoration: none;
+    color: #E5E7EB;
+}
+footer{
+    text-align: center;
+    color: #F9FAF8;
+}
+#quote{
+    background-color: #E5E7EB;
+    
+}
+#quote blockquote{
+    text-align: center;
+}
+#quote cite strong{
+    text-align: right;
+    display: flex;
+}
+#signup{
+    background-color: #3882F6;
+}
